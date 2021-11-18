@@ -11,15 +11,3 @@ SELECT
     payment_date
 FROM invoices
 WHERE invoice_total - payment_total > 0
-
-
-
-     
-     
-     
-     
-     
-     
-     
-     
-     

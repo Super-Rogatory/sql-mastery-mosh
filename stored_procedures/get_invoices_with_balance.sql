@@ -1,3 +1,4 @@
+DROP PROCEDURE IF EXISTS get_clients;
 DELIMITER $$
 CREATE PROCEDURE get_clients() 
 BEGIN
@@ -5,15 +6,3 @@ BEGIN
     FROM clients;
 END$$
 DELIMITER ;
-
-
-
-     
-     
-     
-     
-     
-     
-     
-     
-     

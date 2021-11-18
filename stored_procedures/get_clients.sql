@@ -5,15 +5,3 @@ BEGIN
     FROM clients;
 END$$
 DELIMITER ;
-
-
-
-     
-     
-     
-     
-     
-     
-     
-     
-     
